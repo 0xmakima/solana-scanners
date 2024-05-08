@@ -6,11 +6,8 @@ Scripts that will detect new pools
 Execute scripts using `conda` environment with python 3.12.2
 
 ## Execution
-[Here's the script in action.](https://www.youtube.com/watch?v=KCX89ndFht0)
+[Scanning New Tokens Only](https://www.youtube.com/watch?v=KCX89ndFht0)
+[Scanning and Rugcheck New Tokens](https://www.youtube.com/watch?v=kNdTScNKSJY)
 
 ## Contact 
-Want a copy of the script? Email me at [hackthatcoffee@gmail.com](mailto:hackthatcoffee@gmail.com).
-
-## To Do
-- Get token information
-- Check safeness score using https://rugcheck.xyz/ 
+Want a copy of the script? Email me at [hackthatcoffee@gmail.com](mailto:hackthatcoffee@gmail.com)
