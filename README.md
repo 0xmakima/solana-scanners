@@ -1,6 +1,6 @@
 # Solana Scanners
 
-Scripts that will detect new pools
+Python scripts that will detect new pools in Raydium DEX and then checks them in https://rugcheck.xyz
 
 ## Usage
 Execute scripts using `conda` environment with python 3.12.2
