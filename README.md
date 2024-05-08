@@ -1,6 +1,6 @@
 # Solana Scanners
 
-Scripts that will detect new pools, get token information and check safeness score using https://rugcheck.xyz/ 
+Scripts that will detect new pools
 
 ## Usage
 Execute scripts using `conda` environment with python 3.12.2
@@ -10,3 +10,7 @@ Execute scripts using `conda` environment with python 3.12.2
 
 ## Contact 
 Want a copy of the script? Email me at [hackthatcoffee@gmail.com](mailto:hackthatcoffee@gmail.com).
+
+## To Do
+- Get token information
+- Check safeness score using https://rugcheck.xyz/ 
