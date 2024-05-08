@@ -5,7 +5,7 @@ Scripts that will detect new pools
 ## Usage
 Execute scripts using `conda` environment with python 3.12.2
 
-## Execution
+## Videos of Sniper Bot Running
 [Scanning New Tokens Only](https://www.youtube.com/watch?v=KCX89ndFht0)
 
 [Scanning and Rugcheck New Tokens](https://www.youtube.com/watch?v=kNdTScNKSJY)
